@@ -41,7 +41,7 @@ As an api consumer,
 I want to retrieve a different set of questions depending on the type of quiz e.g. Geography Quiz or Science Quiz
 So that I can support providing different types of quiz.
 
-Moving ahead we could have a static class for categories and types and they could be referenced from the Question table.
+Moving ahead we could have a static table for categories and types and they could be referenced from the Question table.
 The Question table right now also has place holders for options a through d for multiple choice questions and a  column for storing the right answer.
 
 Good luck!
